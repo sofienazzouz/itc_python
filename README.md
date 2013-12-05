@@ -1,6 +1,6 @@
 Purpose
 ============
-Problem to resolve: Lost of time while manually uploading screenshots on appstore
+Problem to resolve: Lost of time while manually uploading screenshots on appstore <br/>
 Aim: Python script to magically upload or/and update screenshots of an application on appstore
 
 
