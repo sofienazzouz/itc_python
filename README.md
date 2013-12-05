@@ -1,3 +1,9 @@
+Purpose
+============
+Problem to resolve: Lost of time while manually uploading screenshots on appstore
+Aim: Python script to magically upload or/and update screenshots of an application on appstore
+
+
 itc_python
 ==========
 
