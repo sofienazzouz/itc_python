@@ -5,8 +5,6 @@ iTunes Connect Transporter python script
 Screenshots updater
 ===================
 
-These scripts do what...
-
 Dependencies
 ------------
 
