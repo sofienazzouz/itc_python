@@ -46,7 +46,7 @@ def main(path, version_num):
         counter = 0
 
         for screenshot in screenshots.findall(".//ns:software_screenshot", namespaces=ns):
-            #14 successive screenshot 5 for iphone4 5 for iphone5 4 for ipad
+            #15 successive screenshot 5 for iphone4 5 for iphone5 5 for ipad
             if counter == 5: #counter should reset to 0 each time he finish screenshots of the mentionned device
                 counter = 0
             file_name = screenshot.find(".//ns:file_name", namespaces=ns)
